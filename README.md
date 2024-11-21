@@ -1,1 +1,2 @@
-# Journal_Club
+# JHU Deep Learning in Genomics Journal Club
+
